@@ -4,3 +4,4 @@ print("Original Array: " +str(array_num))
 array_num.reverse()
 print("Reverse the order of the items:")
 print(str(array_num))
+//example code
