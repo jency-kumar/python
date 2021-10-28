@@ -30,7 +30,7 @@ label_4.place(x=70,y=280)
 
 
 entry_2 = Entry(root)
-entry_2.place(x=240,y=280) 
+entry_2.place(x=240,y=280)
 
 Button(root, text='Submit',width=20,bg='brown',fg='white').place(x=180,y=380)
 root.mainloop()
